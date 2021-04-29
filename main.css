@@ -1,0 +1,85 @@
+header {
+    background-image: url(/img/banner2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+
+.navbar-nav a,
+.navbar-nav p {
+    color: white;
+    font-size: 16pt;
+    font-weight: 400;
+    text-align: center;
+}
+
+.nav a,
+.nav p,
+.nav i {
+    color: white;
+    font-size: 14pt;
+}
+
+.navbar-nav a:hover {
+    color: orange;
+}
+
+.icons li {
+    border-radius: 100%;
+    background-color: orange;
+    border: 10px solid orange;
+}
+
+.about {
+    background-color: white;
+}
+
+.header-btn button {
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid orange;
+    color: white;
+    font-weight: 500;
+}
+
+.header-btn button:hover {
+    background-color: rgba(255, 165, 0, 100);
+    border: 2px solid orange;
+    color: black;
+}
+
+.lights h4,
+.lights p,
+.lights i {
+    color: black;
+}
+
+.banner4 {
+    background-image: url(img/banner4.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #464646;
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
+
+.banner4 p {
+    font-weight: 700;
+}
+
+.btn-sale {
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid white;
+    color: white;
+    font-weight: 500;
+}
+
+.btn-sale:hover {
+    background-color: rgba(255, 255, 255, 100);
+    border: 2px solid white;
+    color: black;
+}

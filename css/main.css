@@ -1,0 +1,156 @@
+header {
+    background-image: url(../img/banner2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    color: white;
+}
+
+.navbar-nav a,
+.navbar-nav p {
+    color: white;
+    font-size: 16pt;
+    font-weight: 400;
+    text-align: center;
+}
+
+.nav a,
+.nav p,
+.nav i {
+    color: white;
+    font-size: 14pt;
+}
+
+.navbar-nav a:hover {
+    color: orange;
+}
+
+.icons li {
+    border-radius: 100%;
+    background-color: orange;
+    border: 10px solid orange;
+}
+
+.about {
+    background-color: white;
+}
+
+.header-btn button,
+.designers button {
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid orange;
+    color: white;
+    font-weight: 500;
+}
+
+.header-btn button:hover,
+.designers button:hover {
+    background-color: rgba(255, 165, 0, 100);
+    border: 2px solid orange;
+    color: black;
+}
+
+.lights h4,
+.lights p,
+.lights i {
+    color: black;
+}
+
+.banner4 {
+    background-image: url(../img/banner4.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #464646;
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
+
+.banner4 p {
+    font-weight: 700;
+}
+
+.btn-sale {
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid white;
+    color: white;
+    font-weight: 500;
+}
+
+.btn-sale:hover {
+    background-color: rgba(255, 255, 255, 100);
+    border: 2px solid white;
+    color: black;
+}
+
+.slider__item {
+    flex: 0 0 25%;
+    /* ширина слайда */
+    max-width: 25%;
+    text-align: center;
+}
+
+.slider__item h3 {
+    color: black;
+}
+
+.slider__item p {
+    color: gray;
+    font-weight: 900;
+}
+
+.slider__item img {
+    border-radius: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.designers button {
+    color: black;
+}
+
+.information {
+    background-image: url(../img/banner5.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #464646;
+    padding-top: 60px;
+    color: white;
+    padding-bottom: 60px;
+}
+
+.information i {
+    color: orange;
+    border-radius: 100%;
+    border: 2px solid orange;
+    padding: 50px;
+    margin: 10px;
+}
+
+.information i:hover {
+    color: white;
+    background-color: orange;
+    border-radius: 100%;
+    border: 2px solid orange;
+}
+
+.cost i {
+    color: black;
+    border-radius: 100%;
+    border: 2px solid orange;
+    padding: 40px;
+    margin: 10px;
+}
+
+.cost i:hover {
+    color: white;
+    background-color: orange;
+    border-radius: 100%;
+    border: 2px solid orange;
+}
