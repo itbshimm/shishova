@@ -83,3 +83,13 @@ header {
     border: 2px solid white;
     color: black;
 }
+
+.city {
+    background-image: url(img/banner7.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #464646;
+    text-align: center;
+}
